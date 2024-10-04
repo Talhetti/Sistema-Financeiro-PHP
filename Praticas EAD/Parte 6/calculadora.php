@@ -12,6 +12,7 @@ $numero6 = '';
 $numero7 = '';
 $numero8 = '';
 
+
 $soma = '';
 $subtrair = '';
 $multiplicar = '';
